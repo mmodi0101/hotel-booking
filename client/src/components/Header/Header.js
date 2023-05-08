@@ -3,7 +3,7 @@ import "./header.css"
 import { GlobalContext } from '../../utils/Context'
 import styled from 'styled-components'
 import { PageTitle } from '../GlobalStyles/PageStyles'
-import HotelLogo from "../../assets/logo.png"
+import HotelLogo from "../../assets/logo2.png"
 import {Link} from 'react-router-dom'
 
 const FixedHeader = styled.div`
